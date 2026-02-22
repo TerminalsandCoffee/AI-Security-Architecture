@@ -2,6 +2,8 @@
 
 A practical guide to securing LLM-powered systems. Covers the AI threat landscape, attack techniques, secure design patterns, and reference architectures — written for security professionals, developers, and architects. No PhD required.
 
+<img width="1376" height="768" alt="image" src="https://github.com/user-attachments/assets/8f3a9d7a-0188-4124-9006-5c5df0e92d9c" />
+
 ## Who This Is For
 
 - **Security professionals** expanding into AI security (SOC analysts, pentesters, GRC)
