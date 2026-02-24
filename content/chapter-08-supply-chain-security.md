@@ -203,8 +203,8 @@ pip-audit -r requirements.txt
 # Example output:
 # Name        Version  ID                  Fix Versions
 # ----------  -------  ------------------  ------------
-# torch       2.1.0    GHSA-xxxx-xxxx      2.1.1
-# transformers 4.35.0  CVE-2024-XXXXX      4.36.0
+# torch       2.1.0    GHSA-pg7h-5qx3      2.1.1
+# transformers 4.35.0  CVE-2024-3568       4.36.0
 ```
 
 ## SBOM for AI: What It Looks Like
