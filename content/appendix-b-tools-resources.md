@@ -19,7 +19,8 @@
 | **ModelScan** | Scan ML model files for malicious code (pickle exploits, etc.) | github.com/protectai/modelscan |
 | **safetensors** | Safe model serialization format — stores only tensor data, no code execution | github.com/huggingface/safetensors |
 | **pip-audit** | Audit Python dependencies for known vulnerabilities | github.com/pypa/pip-audit |
-| **Trivy** | Container and dependency vulnerability scanner — supports Python, npm, etc. | github.com/aquasecurity/trivy |
+| **Grype** | Container and dependency vulnerability scanner from Anchore — supports Python, npm, etc. | github.com/anchore/grype |
+| ~~Trivy~~ | ~~Container scanner by Aqua Security~~ — **compromised in 2025 supply chain attack; use Grype or Snyk instead** | ~~github.com/aquasecurity/trivy~~ |
 | **Sigstore** | Keyless signing for software supply chain integrity | sigstore.dev |
 
 ### Content Safety and PII Detection
